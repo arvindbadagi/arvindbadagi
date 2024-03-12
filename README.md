@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everyone 👋, I'm Aravind Badagi</h1>
-<h3 align="center">A passionate Data Analyst from India. Currently, I'm delving into the world of Azure, where I'm weaving magic with data. 💫</h3>
+<h3 align="center">A passionate Data Analyst from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindbadagi&label=Profile%20views&color=0e75b6&style=flat" alt="aravindbadagi" /> </p>
 
