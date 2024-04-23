@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Azure Cloud Concepts, SQL, Power BI, Phyton**
 
-- 👨‍💻 All of my projects are available at [https://arvindbadagi.github.io/aravind.github.io/](https://arvindbadagi.github.io/aravind.github.io/)
+- 👨‍💻 All of my projects are available at [https://arvindbadagi.github.io/Portfolio/)
 
 - 💬 Ask me about **Curious about data analysis and visualization? Need help with SQL, Python, R, statistical analysis, machine learning, or data cleaning and preprocessing? I've got you covered! Feel free to reach out and let's dive deep into the data together.**
 
