@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindbadagi&label=Profile%20views&color=0e75b6&style=flat" alt="aravindbadagi" /> </p>
 
-- 🔭 I’m currently working on **Azure Cloud Concepts, SQL, Power BI, Phyton**
+- 🔭 I’m currently working on **Azure Cloud Concepts, SQL, Power BI, Advanced Excel**
 
 - 👨‍💻 All of my projects are available at [https://arvindbadagi.github.io/Portfolio/)
 
